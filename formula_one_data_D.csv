@@ -1,0 +1,6 @@
+driver_id,driver_awareness,driver_pace,percentage_sim,car_engine_power,car_tire_type,car_fuel_efficiency,prev_lap_time,prev_track,prev_climatic_conditions,current_tire_type,amount_of_fuel,weightof_car,prev_tyre_type
+1,85,90,"34%,a;40%,b;30%,c;100%,d",950,Soft,0.86,1.61,Track D,Sunny,Soft,51,690,Medium
+2,80,85,"45%,a;30%,b;40%,c;90%,d",940,Medium,0.85,1.64,Track D,Cloudy,Medium,47,670,Hard
+3,90,95,"40%,a;35%,b;45%,c;95%,d",1070,Hard,0.78,1.57,Track D,Rainy,Soft,54,720,Soft
+4,75,80,"25%,a;50%,b;20%,c;85%,d",930,Soft,0.83,1.69,Track D,Snowy,Hard,63,740,Medium
+5,88,91,"35%,a;40%,b;30%,c;100%,d",1020,Medium,0.80,1.60,Track D,Sunny,Medium,52,710,Soft
